@@ -42,27 +42,31 @@ I'm a full-stack developer with a strong focus on backend engineering, specializ
 
 #### 🏢 [The Conqueror Developers](https://theconquerordevelopers.com/)
 Real estate management platform for a property development company — handles property/unit listings, customer profiles, and a full payment & receipts system with custom and installment-based payment plans.
+
 **Stack:** Next.js, TypeScript, Zustand, Node.js, Express, MongoDB
 
 #### 🔐 [Secure Vault - Data](https://play.google.com/store/apps/details?id=com.securevault.hasbi)
 A secure file-vault mobile application with 3-step authentication (PIN, secret word, pattern) and progressive lockout protection. Includes full file management — upload, preview, download, deletion, and category filtering — plus admin tools for user/file management and credential updates.
+
 **Stack:** React Native, TypeScript, Node.js, Tailwind CSS
 
 #### 🏘️ [YallahNshoof](https://play.google.com/store/apps/details?id=com.yallahnshoof)
 An all-in-one marketplace app for buying, selling, and renting properties, vehicles, and other listed items. Features quick listing creation with photos and pricing, smart search and filters, in-app chat between buyers and sellers, and a secure, user-friendly experience.
 **Key Features:** Property & vehicle buy/sell/rent · Quick listing creation · Smart search & filters · Direct in-app messaging · Secure marketplace flow
+
 **Stack:** React Native, Styled Components, TypeScript, Tailwind CSS, Node.js, Next.js
 
 #### 🐾 Petzap – Pet Social Networking & Management Platform
 A cross-platform mobile app combining social networking with practical pet management. Users can create profiles, connect with other pet owners, share posts, and stay engaged through real-time push notifications.
 **Key Features:** Pet owner social network · Photo sharing & community engagement · Profile & location management · Real-time notifications via OneSignal · Cross-platform (iOS & Android)
+
 **Stack:** React Native, TypeScript, Styled Components, Node.js
 
 ---
 
 ### 🗂️ Other Repositories
 
-<table width="100%">
+<table width="100%" align="center">
   <thead>
     <tr>
       <th width="25%">Project</th>
