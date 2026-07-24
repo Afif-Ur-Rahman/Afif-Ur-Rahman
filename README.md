@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afif-ur-rahman786/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:afifurrahman444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/923156690902" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afif-ur-rahman786/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afifurrahman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/923156690902"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -62,12 +62,37 @@ A cross-platform mobile app combining social networking with practical pet manag
 
 ### 🗂️ Other Repositories
 
-| Project | Description | Stack |
-|---|---|---|
-| 💱 [Currency Converter](https://github.com/Afif-Ur-Rahman/Currency-Converter) | Real-time currency conversion tool | JavaScript |
-| 🎨 [Color Generator](https://github.com/Afif-Ur-Rahman/Color-Generator) | Random color/palette generator utility | JavaScript |
-| 💌 [Wedding Invitation](https://github.com/Afif-Ur-Rahman/Wedding-Invitation) | A styled digital wedding invitation page | HTML, CSS |
-| ⚛️ [chai-aur-react](https://github.com/Afif-Ur-Rahman/chai-aur-react) | React fundamentals learning project | JavaScript |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Project</th>
+      <th width="55%">Description</th>
+      <th width="20%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💱 <a href="https://github.com/Afif-Ur-Rahman/Currency-Converter">Currency Converter</a></td>
+      <td>Real-time currency conversion tool</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>🎨 <a href="https://github.com/Afif-Ur-Rahman/Color-Generator">Color Generator</a></td>
+      <td>Random color/palette generator utility</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>💌 <a href="https://github.com/Afif-Ur-Rahman/Wedding-Invitation">Wedding Invitation</a></td>
+      <td>A styled digital wedding invitation page</td>
+      <td>HTML, CSS</td>
+    </tr>
+    <tr>
+      <td>⚛️ <a href="https://github.com/Afif-Ur-Rahman/chai-aur-react">chai-aur-react</a></td>
+      <td>React fundamentals learning project</td>
+      <td>JavaScript</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -79,7 +104,7 @@ A cross-platform mobile app combining social networking with practical pet manag
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afif-Ur-Rahman&hide_border=true&background=FFFFFF00&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025" />
+  <img src="https://streak-stats.demolab.com/?user=Afif-Ur-Rahman&hide_border=true&background=FFFFFF00&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025" />
 </p>
 
 ---
