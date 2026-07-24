@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end-to-end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
+I'm a full stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end to end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
 
 - 🔭 Currently leading development of **[The Conqueror Developers](https://theconquerordevelopers.com/)** — a full-scale real estate management platform covering property listings, customer management, and payment/receipt processing
 - 📱 Building and shipping cross-platform mobile applications with React Native, from secure vault apps to marketplace and social platforms
@@ -104,7 +104,7 @@ A cross-platform mobile app combining social networking with practical pet manag
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Afif-Ur-Rahman&hide_border=true&background=0D1117&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025&sideLabels=DAB025&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
