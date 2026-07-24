@@ -31,10 +31,10 @@ I'm a full stack developer with a strong focus on backend engineering, specializ
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma&perline=8" />
 </p>
 
-📱 **Mobile**: React Native · Expo · TypeScript · Styled Components
-🎨 **Frontend**: Next.js · React · TypeScript · Tailwind CSS · Zustand
-⚙️ **Backend**: Node.js · Express · MongoDB
-🛠️ **Tooling**: ESLint · Prettier · Jest · Husky · Git
+📱 **Mobile:** React Native · Expo · TypeScript · Styled Components  
+🎨 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand  
+⚙️ **Backend:** Node.js · Express · MongoDB  
+🛠️ **Tooling:** ESLint · Prettier · Jest · Husky · Git
 
 ---
 
@@ -86,6 +86,11 @@ A cross-platform mobile app combining social networking with practical pet manag
       <td>A styled digital wedding invitation page</td>
       <td>HTML, CSS</td>
     </tr>
+    <tr>
+      <td>⚛️ <a href="https://github.com/Afif-Ur-Rahman/chai-aur-react">chai-aur-react</a></td>
+      <td>React fundamentals learning project</td>
+      <td>JavaScript</td>
+    </tr>
   </tbody>
 </table>
 
@@ -94,13 +99,25 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Afif-Ur-Rahman&show_icons=true&theme=default&hide_border=true&title_color=DAB025&icon_color=DAB025" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afif-Ur-Rahman&layout=compact&hide_border=true&title_color=DAB025&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Afif-Ur-Rahman&show_icons=true&theme=default&hide_border=true&title_color=DAB025&icon_color=DAB025" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afif-Ur-Rahman&layout=compact&hide_border=true&title_color=DAB025&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Afif-Ur-Rahman&hide_border=true&background=FFFFFF00&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025" />
 </p>
+
+---
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</p>
+
+> ⚠️ This won't render until you add the workflow file described below — it needs to run once to generate the image.
 
 ---
 
