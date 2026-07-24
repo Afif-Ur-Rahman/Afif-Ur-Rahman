@@ -99,9 +99,7 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/rank.svg" />
-  <img height="165" src="./profile/top-langs.svg" />
+  <img width="32%" src="./profile/stats.svg" /><img width="32%" src="./profile/rank.svg" /><img width="32%" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -117,8 +115,6 @@ A cross-platform mobile app combining social networking with practical pet manag
 <p align="center">
   <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </p>
-
-> ⚠️ This won't render until you add the workflow file described below — it needs to run once to generate the image.
 
 ---
 
