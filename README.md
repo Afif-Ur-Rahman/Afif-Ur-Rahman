@@ -31,10 +31,10 @@ I'm a full stack developer with a strong focus on backend engineering, specializ
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma&perline=8" />
 </p>
 
-**Mobile:** React Native · Expo · TypeScript · Styled Components  
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand  
-**Backend:** Node.js · Express · MongoDB  
-**Tooling:** ESLint · Prettier · Jest · Husky · Git
+📱 **Mobile**: React Native · Expo · TypeScript · Styled Components
+🎨 **Frontend**: Next.js · React · TypeScript · Tailwind CSS · Zustand
+⚙️ **Backend**: Node.js · Express · MongoDB
+🛠️ **Tooling**: ESLint · Prettier · Jest · Husky · Git
 
 ---
 
