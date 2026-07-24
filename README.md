@@ -1,25 +1,27 @@
-<h1 align="center">Hi there, I'm Afif 👋</h1>
-<h3 align="center">Full Stack Developer | Specializing in Backend Development</h3>
+<h1 align="center">Hi there, I'm Afif Ur Rahman 👋</h1>
+<h3 align="center">Full Stack Developer | Backend-Focused Engineer | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DAB025&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Next.js+%2B+Node.js+%2B+MongoDB;Real+Estate+Management+Platform+Developer;Always+learning+DSA+%26+system+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DAB025&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;React+Native+Mobile+App+Development;Building+The+Conqueror+Developers+Platform;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/afif.2017" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/afif.urrahman.1460/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afif-ur-rahman786/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afifurrahman444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/923156690902" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🔭 Currently building **The Conqueror Developers** — a full-scale real estate management platform (property listings, customer management, payments & receipts, admin dashboard)
-- 🛠️ Working across the full stack: **Next.js/TypeScript** on the frontend, **Node.js/Express/MongoDB** on the backend
-- 🧠 Big believer in understanding the fundamentals — I regularly practice **JavaScript algorithms & data structures from scratch** (sorting, recursion, tree/array transformations) without relying on built-in methods
-- 🏗️ Fan of clean architecture: custom hooks for logic/state, presentational components for UI, and a proper service layer on the backend
-- 🌱 Currently leveling up on scalable state management (**Zustand**), schema validation (**Zod**), and form handling (**React Hook Form**)
-- 💬 Ask me about: Next.js, Express APIs, MongoDB schema design, Zustand, Tailwind theming, or DSA fundamentals
+I'm a full stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end to end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
+
+- 🔭 Currently leading development of **[The Conqueror Developers](https://theconquerordevelopers.com/)** — a full-scale real estate management platform covering property listings, customer management, and payment/receipt processing
+- 📱 Building and shipping cross-platform mobile applications with React Native, from secure vault apps to marketplace and social platforms
+- 🏗️ Strong advocate for clean, maintainable architecture — separation of concerns between logic (custom hooks/services) and presentation
+- 🧠 Invest time regularly in mastering algorithms and data structures from first principles
+- 🤝 Open to collaboration on full-stack, backend, or React Native mobile projects
 
 ---
 
@@ -29,19 +31,43 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma&perline=8" />
 </p>
 
+**Mobile:** React Native · Expo · TypeScript · Styled Components
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand
+**Backend:** Node.js · Express · MongoDB
+**Tooling:** ESLint · Prettier · Jest · Husky · Git
+
 ---
 
 ### 📌 Featured Projects
 
+#### 🏢 [The Conqueror Developers](https://theconquerordevelopers.com/)
+Real estate management platform for a property development company — handles property/unit listings, customer profiles, and a full payment & receipts system with custom and installment-based payment plans.
+**Stack:** Next.js, TypeScript, Zustand, Node.js, Express, MongoDB
+
+#### 🔐 [Secure Vault - Data](https://play.google.com/store/apps/details?id=com.securevault.hasbi)
+A secure file-vault mobile application with 3-step authentication (PIN, secret word, pattern) and progressive lockout protection. Includes full file management — upload, preview, download, deletion, and category filtering — plus admin tools for user/file management and credential updates.
+**Stack:** React Native, TypeScript, Node.js, Tailwind CSS
+
+#### 🏘️ [YallahNshoof](https://play.google.com/store/apps/details?id=com.yallahnshoof)
+An all-in-one marketplace app for buying, selling, and renting properties, vehicles, and other listed items. Features quick listing creation with photos and pricing, smart search and filters, in-app chat between buyers and sellers, and a secure, user-friendly experience.
+**Key Features:** Property & vehicle buy/sell/rent · Quick listing creation · Smart search & filters · Direct in-app messaging · Secure marketplace flow
+**Stack:** React Native, Styled Components, TypeScript, Tailwind CSS, Node.js, Next.js
+
+#### 🐾 Petzap – Pet Social Networking & Management Platform
+A cross-platform mobile app combining social networking with practical pet management. Users can create profiles, connect with other pet owners, share posts, and stay engaged through real-time push notifications.
+**Key Features:** Pet owner social network · Photo sharing & community engagement · Profile & location management · Real-time notifications via OneSignal · Cross-platform (iOS & Android)
+**Stack:** React Native, TypeScript, Styled Components, Node.js
+
+---
+
+### 🗂️ Other Repositories
+
 | Project | Description | Stack |
 |---|---|---|
-| 🏢 **The Conqueror Developers** | Real estate management platform — property units, customer profiles, payment & receipt tracking with installment plans | Next.js, TypeScript, Zustand, Node.js, Express, MongoDB |
 | 💱 [Currency Converter](https://github.com/Afif-Ur-Rahman/Currency-Converter) | Real-time currency conversion tool | JavaScript |
 | 🎨 [Color Generator](https://github.com/Afif-Ur-Rahman/Color-Generator) | Random color/palette generator utility | JavaScript |
 | 💌 [Wedding Invitation](https://github.com/Afif-Ur-Rahman/Wedding-Invitation) | A styled digital wedding invitation page | HTML, CSS |
 | ⚛️ [chai-aur-react](https://github.com/Afif-Ur-Rahman/chai-aur-react) | React fundamentals learning project | JavaScript |
-
-> 💡 Update the table above any time with new repos — see the guide below for how to push changes.
 
 ---
 
@@ -68,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — feel free to explore my repos or connect!</i>
+  <i>Thanks for stopping by — feel free to explore my work or reach out to connect!</i>
 </p>
