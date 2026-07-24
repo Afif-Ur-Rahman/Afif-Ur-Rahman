@@ -100,6 +100,7 @@ A cross-platform mobile app combining social networking with practical pet manag
 
 <p align="center">
   <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/rank.svg" />
   <img height="165" src="./profile/top-langs.svg" />
 </p>
 
