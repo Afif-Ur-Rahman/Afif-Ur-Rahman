@@ -99,7 +99,9 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" src="./profile/stats.svg" /><img width="32%" src="./profile/rank.svg" /><img width="32%" src="./profile/top-langs.svg" />
+  <img src="./profile/stats.svg" /><br/>
+  <img src="./profile/rank.svg" /><br/>
+  <img src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -113,7 +115,9 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+  <a href="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+  </a>
 </p>
 
 ---
