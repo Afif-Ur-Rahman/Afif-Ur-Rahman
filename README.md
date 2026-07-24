@@ -31,10 +31,45 @@ I'm a full stack developer with a strong focus on backend engineering, specializ
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma&perline=8" />
 </p>
 
-**Mobile:** React Native · Expo · TypeScript · Styled Components
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand
-**Backend:** Node.js · Express · MongoDB
-**Tooling:** ESLint · Prettier · Jest · Husky · Git
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">📱 Mobile</th>
+      <th width="25%">🎨 Frontend</th>
+      <th width="25%">⚙️ Backend</th>
+      <th width="25%">🛠️ Tooling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        React Native<br/>
+        Expo<br/>
+        TypeScript<br/>
+        Styled Components
+      </td>
+      <td valign="top">
+        Next.js<br/>
+        React<br/>
+        TypeScript<br/>
+        Tailwind CSS<br/>
+        Zustand
+      </td>
+      <td valign="top">
+        Node.js<br/>
+        Express<br/>
+        MongoDB
+      </td>
+      <td valign="top">
+        ESLint<br/>
+        Prettier<br/>
+        Jest<br/>
+        Husky<br/>
+        Git
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
