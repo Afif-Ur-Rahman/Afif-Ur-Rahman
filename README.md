@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a full stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end to end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
+I'm a full-stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end-to-end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
 
 - 🔭 Currently leading development of **[The Conqueror Developers](https://theconquerordevelopers.com/)** — a full-scale real estate management platform covering property listings, customer management, and payment/receipt processing
 - 📱 Building and shipping cross-platform mobile applications with React Native, from secure vault apps to marketplace and social platforms
@@ -99,12 +99,12 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Afif-Ur-Rahman&show_icons=true&theme=default&hide_border=true&title_color=DAB025&icon_color=DAB025" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afif-Ur-Rahman&layout=compact&hide_border=true&title_color=DAB025&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Afif-Ur-Rahman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DAB025&icon_color=DAB025&text_color=FFFFFF" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afif-Ur-Rahman&layout=compact&hide_border=true&bg_color=0D1117&title_color=DAB025&text_color=FFFFFF&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Afif-Ur-Rahman&hide_border=true&background=FFFFFF00&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025" />
+  <img src="https://streak-stats.demolab.com/?user=Afif-Ur-Rahman&hide_border=true&background=0D1117&stroke=DAB025&ring=DAB025&fire=DAB025&currStreakLabel=DAB025&sideLabels=DAB025&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
 
 ---
@@ -114,10 +114,8 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+  <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </p>
-
-> ⚠️ This won't render until you add the workflow file described below — it needs to run once to generate the image.
 
 ---
 
