@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <img src="./profile/name.svg" alt="Afif Ur Rahman" height="30" align="center" /> 👋</h1>
+<h2 align="center">Hi there, I'm <img src="./profile/name.svg" alt="Afif Ur Rahman" height="30" align="center" /> 👋</h2>
 <h3 align="center">Full Stack Developer | Backend-Focused Engineer | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
