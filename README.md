@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Afif Ur Rahman 👋</h1>
+<h1 align="center">Hi there, I'm <img src="./profile/name.svg" alt="Afif Ur Rahman" height="30" align="center" /> 👋</h1>
 <h3 align="center">Full Stack Developer | Backend-Focused Engineer | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DAB025&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;React+Native+Mobile+App+Development;Building+The+Conqueror+Developers+Platform;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
+  <img src="./profile/typing.svg" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a full stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end to end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
+I'm a full-stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end-to-end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
 
 - 🔭 Currently leading development of **[The Conqueror Developers](https://theconquerordevelopers.com/)** — a full-scale real estate management platform covering property listings, customer management, and payment/receipt processing
 - 📱 Building and shipping cross-platform mobile applications with React Native, from secure vault apps to marketplace and social platforms
@@ -86,11 +86,6 @@ A cross-platform mobile app combining social networking with practical pet manag
       <td>A styled digital wedding invitation page</td>
       <td>HTML, CSS</td>
     </tr>
-    <tr>
-      <td>⚛️ <a href="https://github.com/Afif-Ur-Rahman/chai-aur-react">chai-aur-react</a></td>
-      <td>React fundamentals learning project</td>
-      <td>JavaScript</td>
-    </tr>
   </tbody>
 </table>
 
@@ -115,10 +110,10 @@ A cross-platform mobile app combining social networking with practical pet manag
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Afif-Ur-Rahman/Afif-Ur-Rahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </p>
+
+> ⚠️ This won't render until you add the workflow file described below — it needs to run once to generate the image.
 
 ---
 
