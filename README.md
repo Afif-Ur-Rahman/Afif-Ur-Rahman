@@ -76,17 +76,17 @@ A cross-platform mobile app combining social networking with practical pet manag
   </thead>
   <tbody>
     <tr>
-      <td>💱 <a href="https://github.com/Afif-Ur-Rahman/Currency-Converter">Currency Converter</a></td>
+      <td>💱 <a href="https://afifurrahman-currency-converter.vercel.app/">Currency Converter</a></td>
       <td>Real-time currency conversion tool</td>
       <td>JavaScript</td>
     </tr>
     <tr>
-      <td>🎨 <a href="https://github.com/Afif-Ur-Rahman/Color-Generator">Color Generator</a></td>
+      <td>🎨 <a href="https://afifurrahman-color-generator.vercel.app/">Color Generator</a></td>
       <td>Random color/palette generator utility</td>
       <td>JavaScript</td>
     </tr>
     <tr>
-      <td>💌 <a href="https://github.com/Afif-Ur-Rahman/Wedding-Invitation">Wedding Invitation</a></td>
+      <td>💌 <a href="https://muhammad-abdullah-wedding-invitation.vercel.app/">Wedding Invitation</a></td>
       <td>A styled digital wedding invitation page</td>
       <td>HTML, CSS</td>
     </tr>
