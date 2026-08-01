@@ -69,9 +69,9 @@ A cross-platform mobile app combining social networking with practical pet manag
 <table width="100%" align="center">
   <thead>
     <tr>
-      <th width="25%">Project</th>
-      <th width="55%">Description</th>
-      <th width="20%">Stack</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
     </tr>
   </thead>
   <tbody>
