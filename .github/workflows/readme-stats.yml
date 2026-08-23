@@ -1,5 +1,4 @@
 name: Update stats cards
-
 on:
   schedule:
     - cron: "0 4 * * *" # Run every day at 04:00 UTC
@@ -7,40 +6,34 @@ on:
     paths:
       - ".github/workflows/readme-stats.yml" # Run any time this file is modified
   workflow_dispatch: # Run manually from the Actions tab
-
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=DAB025&icon_color=DAB025&text_color=FFFFFF
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=DAB025&icon_color=DAB025&text_color=FFFFFF&count_private=true&include_all_commits=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Generate rank card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide=stars,commits,prs,issues,contribs&hide_title=true&hide_border=true&bg_color=0D1117&ring_color=DAB025&text_color=FFFFFF
+          options: username=${{ github.repository_owner }}&hide=stars,commits,prs,issues,contribs&hide_title=true&hide_border=true&bg_color=0D1117&ring_color=DAB025&text_color=FFFFFF&count_private=true&include_all_commits=true
           path: profile/rank.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=DAB025&text_color=FFFFFF&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=DAB025&text_color=FFFFFF&langs_count=8&count_private=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
