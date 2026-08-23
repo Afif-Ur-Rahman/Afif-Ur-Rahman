@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm <img src="./profile/name.svg" alt="Afif Ur Rahman" height="30" align="center" /> 👋</h2>
-<h3 align="center">Full Stack Developer | Backend-Focused Engineer | Building Scalable Web & Mobile Applications</h3>
+<h3 align="center">Full Stack Developer | MERN stack Developer | Backend-Focused Engineer | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
   <img src="./profile/typing.svg" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/afif-ur-rahman786/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:afifurrahman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/923156690902"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/923156690902"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="https://afif-ur-rahman.vercel.app"><img src="./profile/portfolio.png" width="20" height="20" valign="middle"/> <b>Portfolio</b></a>
 </p>
 
 ---
