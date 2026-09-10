@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AFIF UR RAHMAN&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1294, Total PRs: 36, Total Issues: 1, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1298, Total PRs: 36, Total Issues: 1, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 201.26267272757246;
+        stroke-dashoffset: 201.2153751033619;
       }
     }
   
