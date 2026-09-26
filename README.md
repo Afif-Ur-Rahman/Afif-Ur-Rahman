@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/afif-ur-rahman786/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:afifurrahman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/923156690902"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://afif-ur-rahman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-DAB025?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAE10lEQVRYhcWVWWyUVRSAv/tvnbXTMnYHirSAoLRUlqZo3YoItg0QIoIPEvXBBBITRUTjEl9NJDxJgiZijA8aAxjjAqKxEQ0BNyjEWAttgWotnS6zb//814fpMm2HYpSW8/Tf/5x7v3uWe44gQ1xFmwrznPFd5UWJDW6bVa6o0ibJJjL7d1ZjSTKlhP1B5UJHt/Fuv1sc4MKX8RGtGPnwFDdvuXNB7GCJN+G48KdB36BO3BRZTp0KLidYptd2Q1LsTTK/JMH5DlvHxW6tMdj/1e+jF/AUN2+5vyb0Ye+AJs532DOO/v/wzD+6JqmvjtDvV/3nL+orA33H24WraFPhyoWhzlgCx3TCM6VheYiuHr2ttVXeoeQ547tKvIkZgyMlJ844qJofW+QpMrarSxfNe8vnV72+IX1G4AApS+C0WThtZrHitptz+gZnDj6i6+7T8HrkEkXXsMeSN6ba/y0cIBIX2HTLpcy052OSdlq5OfCx3crNhANo14db1D/Zxb66FCffn8czJzSsDL2SF+CNlwao9Zi4NZAphcGgwHCm0JMaly46+OiTPI50qaOFnklSpoaDcIZpqk6hCMmK1UFKxXhvrCE3u18s5e2udFe3/vaw44Vy7n22jP2dFpVLA7z8nI8NXjkJPnyBqcPurfFTZ0tvNOYHWV86VWgzLhY1+LjFQUSC4oiyZok1wUKCHFcDWXIukqytMzn6eS69Fgg1zsO1ieG8Tcx5loWQo9POTE2GQ7YUZBScWhJkvdPFkWNujvvSR82pDbBMvz5cc8V5fE0Uu4Ckz8mhc8pYs8uw16aq9kW1QeSPxbTFDeRpnceaEqizwjQv9vJT67BvUmYMdVCKAuzfG8DptDAsjdNHvbz5hYP28GT4cB/IDkeP0rRc4dhpnRTwxyk3bSlApLhvdZhcwYSnlharN5edu8t45ZSGpZmsvCtElSs7fDgCWeCAbXGAhvwE8vnLbBs2clkCqUrcS4M0uJ0c8Y8/bHRlqXxz2MOpZf2sdsfYuTHC1wcc+Jlsn+UZghQp6uui/PrePNbtKadxz1wa95Sz+QM7UQnCiNK0yhzePDkKErAGXBw8qZFCkl/jZ3OJzNCOWSqTN0tEbojGuXY+bVXGvdz+M26+DwsQkqq6EPOUaz9DEPxy3M3ZJAg9ybZ1MVxiPBxAXVhR/npPv04imYYpswLsfbWP+lyTVVUpzv3goFcCwmTjU708OtvCUEDxxFhfl+TyWYsdr/nYUGKRo4BwJmi4O4Z5zsHZXoOhwjAPzbVwlkXYVGvR9p2dbkuSo0tKbzERTQ/eI39usxOITAzGf+vto/psfSHj2+2wWLEolk7BjRos/xaeKdcZx9MJT6+VeFIJO3KyVej0wm2GJJEkovQH1N/KCpIzCgcoyDcJhNXLSleP/k55YQJDy2zJ0wtHQGWZSddV5bAaDc1pxdC2VlfGvJ09xrTDJVBdEScUIdx9xdiqQIvZ+Ze92efX/A/UhNBHIzE9nldXxCnwpOSZdvv2YLDFNzrH3N61t1WWmZ/dXhGt6OzR6fFpRBNi9ICp4de6SHqdo0sK8k0WlJlc6VXCZ9rt20MD3x4avlOmPGJ4iwafvnV28ok8l7VAV6UrK/yakt3zlCmi/rDounRVPRIZUvcFgy2+EYt/AISMv922nPmHAAAAAElFTkSuQmCC&logoColor=09113F&color=DAB025" /></a>
+  <a href="https://afif-ur-rahman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-DAB025?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAE10lEQVRYhcWVWWyUVRSAv/tvnbXTMnYHirSAoLRUlqZo3YoItg0QIoIPEvXBBBITRUTjEl9NJDxJgiZijA8aAxjjAqKxEQ0BNyjEWAttgWotnS6zb//814fpMm2HYpSW8/Tf/5x7v3uWe44gQ1xFmwrznPFd5UWJDW6bVa6o0ibJJjL7d1ZjSTKlhP1B5UJHt/Fuv1sc4MKX8RGtGPnwFDdvuXNB7GCJN+G48KdB36BO3BRZTp0KLidYptd2Q1LsTTK/JMH5DlvHxW6tMdj/1e+jF/AUN2+5vyb0Ye+AJs532DOO/v/wzD+6JqmvjtDvV/3nL+orA33H24WraFPhyoWhzlgCx3TCM6VheYiuHr2ttVXeoeQ547tKvIkZgyMlJ844qJofW+QpMrarSxfNe8vnV72+IX1G4AApS+C0WThtZrHitptz+gZnDj6i6+7T8HrkEkXXsMeSN6ba/y0cIBIX2HTLpcy052OSdlq5OfCx3crNhANo14db1D/Zxb66FCffn8czJzSsDL2SF+CNlwao9Zi4NZAphcGgwHCm0JMaly46+OiTPI50qaOFnklSpoaDcIZpqk6hCMmK1UFKxXhvrCE3u18s5e2udFe3/vaw44Vy7n22jP2dFpVLA7z8nI8NXjkJPnyBqcPurfFTZ0tvNOYHWV86VWgzLhY1+LjFQUSC4oiyZok1wUKCHFcDWXIukqytMzn6eS69Fgg1zsO1ieG8Tcx5loWQo9POTE2GQ7YUZBScWhJkvdPFkWNujvvSR82pDbBMvz5cc8V5fE0Uu4Ckz8mhc8pYs8uw16aq9kW1QeSPxbTFDeRpnceaEqizwjQv9vJT67BvUmYMdVCKAuzfG8DptDAsjdNHvbz5hYP28GT4cB/IDkeP0rRc4dhpnRTwxyk3bSlApLhvdZhcwYSnlharN5edu8t45ZSGpZmsvCtElSs7fDgCWeCAbXGAhvwE8vnLbBs2clkCqUrcS4M0uJ0c8Y8/bHRlqXxz2MOpZf2sdsfYuTHC1wcc+Jlsn+UZghQp6uui/PrePNbtKedxz1wa95Sz+QM7UQnCiNK0yhzePDkKErAGXBw8qZFCkl/jZ3OJzNCOWSqTN0tEbojGuXY+bVXGvdz+M26+DwsQkqq6EPOUaz9DEPxy3M3ZJAg9ybZ1MVxiPBxAXVhR/npPv04imYYpswLsfbWP+lyTVVUpzv3goFcCwmTjU708OtvCUEDxxFhfl+TyWYsdr/nYUGKRo4BwJmi4O4Z5zsHZXoOhwjAPzbVwlkXYVGvR9p2dbkuSo0tKbzERTQ/eI39usxOITAzGf+vto/psfSHj2+2wWLEolk7BjRos/xaeKdcZx9MJT6+VeFIJO3KyVej0wm2GJJEkovQH1N/KCpIzCgcoyDcJhNXLSleP/k55YQJDy2zJ0wtHQGWZSddV5bAaDc1pxdC2VlfGvJ29xrTDJVBdEScUIdx9xdiqQIvZ+Ze92efX/A/UhNBHIzE9nldXxCnwpOSZdvv2YLDFNzrH3N61t1WWmZ/dXhGt6OzR6fFpRBNi9ICp4de6SHqdo0sK8k0WlJlc6VXCZ9rt20MD3x4avlOmPGJ4iwafvnV28ok8l7VAV6UrK/yakt3zlCmi/rDounRVPRIZUvcFgy2+EYt/AISMv922nPmHAAAAAElFTkSuQmCC&logoColor=09113F&color=DAB025" /></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 I'm a full-stack developer with a strong focus on backend engineering, specializing in building production-grade web and mobile applications end-to-end. My work spans **Next.js/TypeScript** frontends, **Node.js/Express/MongoDB** backends, and **React Native** mobile apps published on the Google Play Store.
 
-- 🔭 Currently leading development of **[The Conqueror Developers](https://theconquerordevelopers.com/)** — a full-scale real estate management platform covering property listings, customer management, and payment/receipt processing
+- 🔭 Currently leading development of **[Harrum Cloth House](https://harrum-cloth-house.vercel.app/)** — a full-stack inventory and order management platform covering stock, employees, customers, orders, and receipts
 - 📱 Building and shipping cross-platform mobile applications with React Native, from secure vault apps to marketplace and social platforms
 - 🏗️ Strong advocate for clean, maintainable architecture — separation of concerns between logic (custom hooks/services) and presentation
 - 🧠 Invest time regularly in mastering algorithms and data structures from first principles
@@ -33,13 +33,18 @@ I'm a full-stack developer with a strong focus on backend engineering, specializ
 </p>
 
 📱 **Mobile:** React Native · Expo · TypeScript · Styled Components  
-🎨 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand  
+🎨 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand · React Hook Form · Zod · Radix UI  
 ⚙️ **Backend:** Node.js · Express · MongoDB  
 🛠️ **Tooling:** ESLint · Prettier · Jest · Husky · Git
 
 ---
 
 ### 📌 Featured Projects
+
+#### 🧵 [Harrum Cloth House](https://harrum-cloth-house.vercel.app/)
+Full-stack inventory and order management platform built for a super-admin role — covers stock, employees, customers, orders, and a receipts system.
+
+**Stack:** Next.js, TypeScript, Zustand, React Hook Form, Zod, Radix UI, Node.js, Express, MongoDB
 
 #### 🏢 [The Conqueror Developers](https://theconquerordevelopers.com/)
 Real estate management platform for a property development company — handles property/unit listings, customer profiles, and a full payment & receipts system with custom and installment-based payment plans.
@@ -57,12 +62,6 @@ An all-in-one marketplace app for buying, selling, and renting properties, vehic
 
 **Stack:** React Native, Styled Components, TypeScript, Tailwind CSS, Node.js, Next.js
 
-#### 🐾 Petzap – Pet Social Networking & Management Platform
-A cross-platform mobile app combining social networking with practical pet management. Users can create profiles, connect with other pet owners, share posts, and stay engaged through real-time push notifications.
-**Key Features:** Pet owner social network · Photo sharing & community engagement · Profile & location management · Real-time notifications via OneSignal · Cross-platform (iOS & Android)
-
-**Stack:** React Native, TypeScript, Styled Components, Node.js
-
 ---
 
 ### 🗂️ Other Repositories
@@ -77,13 +76,18 @@ A cross-platform mobile app combining social networking with practical pet manag
   </thead>
   <tbody>
     <tr>
+      <td>🐾 Petzap</td>
+      <td>Pet social networking & management app — profiles, photo sharing, and real-time push notifications via OneSignal</td>
+      <td>React Native, TypeScript, Styled Components, Node.js</td>
+    </tr>
+    <tr>
       <td>💱 <a href="https://afifurrahman-currency-converter.vercel.app/">Currency Converter</a></td>
-      <td>Real-time currency conversion tool</td>
+      <td>Real-time currency conversion tool with a violet/coral theme, tsParticles background, and a custom dark-themed React Select</td>
       <td>JavaScript</td>
     </tr>
     <tr>
       <td>🎨 <a href="https://afifurrahman-color-generator.vercel.app/">Color Generator</a></td>
-      <td>Random color/palette generator utility</td>
+      <td>A "paint-chip studio" random color/palette generator with HSL-biased generation and a color history strip</td>
       <td>JavaScript</td>
     </tr>
     <tr>
